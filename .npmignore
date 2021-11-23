@@ -4,3 +4,4 @@ example/
 # npm pack
 #
 /react-native-sms-verifycode*.tgz
+node_modules/
