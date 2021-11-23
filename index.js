@@ -346,7 +346,7 @@ class VerifyCode extends Component {
           }}
           autoFocus={autoFocus}
           maxLength={verifyCodeLength}
-          keyboardType="numeric"
+          keyboardType="default"
           style={styles.hiddenTextInput}
           value={this.state.text}
           onChangeText={(text) => {
