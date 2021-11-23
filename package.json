@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sms-verifycode",
+  "name": "react-native-sms-verifycode-2",
   "version": "2.4.3",
   "description": "A component for entering a set of SMS verification codes for react-native, Compatible for Android and iOS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shixiaoquan/react-native-verifycode.git"
+    "url": "git+https://github.com/karl-mccoubrey/react-native-verifycode.git"
   },
   "keywords": [
     "verifycode",
@@ -21,12 +21,12 @@
     "code",
     "SMS verification codes"
   ],
-  "author": "shixiaoquan",
+  "author": "karl-mccoubrey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shixiaoquan/react-native-sms-verifycode/issues"
+    "url": "https://github.com/karl-mccoubrey/react-native-sms-verifycode/issues"
   },
-  "homepage": "https://github.com/shixiaoquan/react-native-sms-verifycode#readme",
+  "homepage": "https://github.com/karl-mccoubrey/react-native-sms-verifycode#readme",
   "dependencies": {
     "prop-types": "^15.6.2"
   },
